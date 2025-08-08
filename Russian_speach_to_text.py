@@ -2,7 +2,7 @@
 # pip install openai-whisper
 # pip install -U openai-whisper
 import openai
-openai.api_key = "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"
+openai.api_key = "sk-proj-xxxxx"
 # import libraries
 import openai
 from openai import OpenAI
